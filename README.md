@@ -7,8 +7,8 @@ Submission for the MapUp Full-Stack Developer assessment.
 | | |
 | --- | --- |
 | Video walkthrough | _TODO: add link_ |
-| Frontend (live) | _TODO: add link_ |
-| Backend (live) | _TODO: add link_ |
+| Frontend (live) | https://geofence-alert-system-three.vercel.app |
+| Backend (live) | https://geofence-backend-d7k1.onrender.com ([health check](https://geofence-backend-d7k1.onrender.com/health)) |
 | Docker Hub image | `architkamble/geofence-backend` |
 | Setup and API guide | [SETUP.md](SETUP.md) |
 
