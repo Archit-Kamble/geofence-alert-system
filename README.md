@@ -6,7 +6,7 @@ Submission for the MapUp Full-Stack Developer assessment.
 
 | | |
 | --- | --- |
-| Video walkthrough | _TODO: add link_ |
+| Video walkthrough | [Watch on Google Drive](https://drive.google.com/file/d/1Gpq7ZuXO5XlOrouQ2U6gIkxWcQYxP-d9/view) · demo 0:07, code walkthrough 9:30, gaps and roadmap 21:22 |
 | Frontend (live) | https://geofence-alert-system-three.vercel.app |
 | Backend (live) | https://geofence-backend-d7k1.onrender.com ([health check](https://geofence-backend-d7k1.onrender.com/health)) |
 | Docker Hub image | [architkamble/geofence-backend](https://hub.docker.com/r/architkamble/geofence-backend) (`docker pull architkamble/geofence-backend:latest`) |
@@ -102,4 +102,4 @@ Two additions that do not change the endpoints above:
 
 ## How AI was used
 
-MapUp's instructions allow AI tools. This project was built with an AI coding assistant (Claude). I set the requirements from the brief, reviewed the design and the code, ran and tested it, and I can explain every part of it.
+MapUp's instructions allow AI tools. This project was built with an AI coding assistant (Claude), which wrote most of the code. I set the requirements from the brief, deployed it, and ran and tested it. My background is Java, and Go and React are new to me. I can explain the design and how a request flows through the system, and I am still learning to read the Go and React code line by line.
